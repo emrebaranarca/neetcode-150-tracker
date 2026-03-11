@@ -33,7 +33,7 @@ LeetCode mülakatlarına hazırlanmak için en etkili 150 soruyu takip edebilece
 ## 🚀 Kullanım
 
 ### Online
-Siteyi ziyaret edin: **[https://coding-interview-tracker.netlify.app]()**
+Siteyi ziyaret edin: **https://coding-interview-tracker.netlify.app**
 
 ### Lokal
 ```bash
