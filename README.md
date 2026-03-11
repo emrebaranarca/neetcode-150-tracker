@@ -33,11 +33,11 @@ LeetCode mülakatlarına hazırlanmak için en etkili 150 soruyu takip edebilece
 ## 🚀 Kullanım
 
 ### Online
-Siteyi ziyaret edin: **[your-site.netlify.app]()**
+Siteyi ziyaret edin: **[https://coding-interview-tracker.netlify.app]()**
 
 ### Lokal
 ```bash
-git clone https://github.com/YOUR_USERNAME/neetcode-150-tracker.git
+git clone https://github.com/emrebaranarca/neetcode-150-tracker.git
 cd neetcode-150-tracker
 # index.html dosyasını tarayıcınızda açın
 open index.html
